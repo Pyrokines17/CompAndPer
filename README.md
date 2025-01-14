@@ -1,1 +1,1 @@
-# CompAndPer
+# Repository for computers and peripherals labs
