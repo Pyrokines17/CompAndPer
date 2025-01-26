@@ -1,1 +1,1 @@
-# Repository for computers and peripherals labs
+# Repository for "Computers and Peripherals" labs
